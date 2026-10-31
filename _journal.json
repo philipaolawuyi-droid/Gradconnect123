@@ -1,0 +1,62 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1777919555472,
+      "tag": "0000_third_wrecker",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1777921640976,
+      "tag": "0001_modern_onslaught",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1777969743522,
+      "tag": "0002_slippery_blob",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1778042484558,
+      "tag": "0003_safe_the_enforcers",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1782969220101,
+      "tag": "0004_superb_kabuki",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "5",
+      "when": 1783244679487,
+      "tag": "0005_optimal_peter_quill",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "5",
+      "when": 1786720416209,
+      "tag": "0006_handy_scream",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "5",
+      "when": 1792440813799,
+      "tag": "0007_cheerful_silver_fox",
+      "breakpoints": true
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+[2026-10-19T20:10:47.203Z] Starting dev server with command: pnpm run dev
+[2026-10-19T20:10:49.550Z] > grad-connect@1.0.0 dev /home/ubuntu/grad-connect
+[2026-10-19T20:10:49.550Z] > NODE_ENV=development tsx watch server/_core/index.ts
+[2026-10-19T20:10:51.304Z] [OAuth] Initialized with baseURL: https://api.manus.im
+[2026-10-19T20:10:51.590Z] Server running on http://localhost:3000/
+[2026-10-19T20:11:38.399Z] 8:11:38 PM [tsx] change in ./drizzle/schema.ts Restarting...
+[2026-10-19T20:11:40.426Z] c[OAuth] Initialized with baseURL: https://api.manus.im
+[2026-10-19T20:11:40.709Z] Server running on http://localhost:3000/
+[2026-10-19T20:12:02.910Z] 8:12:02 PM [tsx] change in ./server/db.ts Restarting...
+[2026-10-19T20:12:04.690Z] c[OAuth] Initialized with baseURL: https://api.manus.im
+[2026-10-19T20:12:04.950Z] Server running on http://localhost:3000/
+[2026-10-19T20:12:08.323Z] 8:12:08 PM [tsx] change in ./server/db.ts Restarting...
+[2026-10-19T20:12:09.963Z] c[OAuth] Initialized with baseURL: https://api.manus.im
+[2026-10-19T20:12:10.202Z] Server running on http://localhost:3000/
+[2026-10-19T20:12:17.733Z] 8:12:17 PM [tsx] change in ./server/db.ts Restarting...
+[2026-10-19T20:12:19.435Z] c[OAuth] Initialized with baseURL: https://api.manus.im
+[2026-10-19T20:12:19.698Z] Server running on http://localhost:3000/
+[2026-10-19T20:12:28.459Z] 8:12:28 PM [tsx] change in ./server/routers.ts Restarting...
+[2026-10-19T20:12:30.090Z] c[OAuth] Initialized with baseURL: https://api.manus.im
+[2026-10-19T20:12:30.349Z] Server running on http://localhost:3000/
+[2026-10-19T20:13:55.778Z] [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+[2026-10-19T20:13:57.546Z] 8:13:57 PM [vite] (client) ✨ new dependencies optimized: @radix-ui/react-dialog
+[2026-10-19T20:13:57.546Z] 8:13:57 PM [vite] (client) ✨ optimized dependencies changed. reloading
+[2026-10-19T20:14:08.301Z] 8:14:08 PM [vite] (client) hmr update /src/pages/Profile.tsx, /src/index.css
+[2026-10-19T20:15:13.853Z] 8:15:13 PM [tsx] change in ./server/db.ts Restarting...
+[2026-10-19T20:15:15.864Z] c[OAuth] Initialized with baseURL: https://api.manus.im
+[2026-10-19T20:15:16.137Z] Server running on http://localhost:3000/
+[2026-10-19T20:15:44.357Z] [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+[2026-10-19T20:16:57.131Z] [Auth] Missing session cookie
+[2026-10-19T20:16:57.511Z] [Auth] Missing session cookie
+[2026-10-19T20:17:03.475Z] [Auth] Missing session cookie
+[2026-10-19T20:28:06.897Z] [Auth] Missing session cookie
+[2026-10-19T20:28:07.232Z] [Auth] Missing session cookie
+[2026-10-23T19:26:01.476Z] ELIFECYCLE  Command failed.
+[2026-10-23T19:26:01.601Z] Dev server exited with code -1
+[2026-10-23T19:26:02.697Z] Starting dev server with command: pnpm run dev
+[2026-10-23T19:26:03.580Z] > grad-connect@1.0.0 dev /home/ubuntu/grad-connect
+[2026-10-23T19:26:03.580Z] > NODE_ENV=development tsx watch server/_core/index.ts
+[2026-10-23T19:26:05.780Z] [OAuth] Initialized with baseURL: https://api.manus.im
+[2026-10-23T19:26:06.177Z] Server running on http://localhost:3000/
+[2026-10-23T19:26:06.986Z] [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+[2026-10-24T21:32:11.781Z] 9:32:11 PM [tsx] change in ./server/routers.ts Restarting...
+[2026-10-24T21:32:15.655Z] c[OAuth] Initialized with baseURL: https://api.manus.im
+[2026-10-24T21:32:16.090Z] Server running on http://localhost:3000/
+[2026-10-24T21:33:02.333Z] [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+[2026-10-24T21:33:11.381Z] 9:33:11 PM [vite] (client) hmr update /src/pages/Directory.tsx, /src/index.css
+[2026-10-24T21:33:11.454Z] 9:33:11 PM [tsx] change in ./server/routers.ts Restarting...
+[2026-10-24T21:33:13.157Z] c[OAuth] Initialized with baseURL: https://api.manus.im
+[2026-10-24T21:33:13.434Z] Server running on http://localhost:3000/
+[2026-10-24T21:33:18.989Z] [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+[2026-10-24T21:52:13.820Z] 9:52:13 PM [vite] (client) hmr update /src/pages/Feed.tsx, /src/index.css
+[2026-10-29T20:51:10.004Z] Starting dev server with command: pnpm run dev
+[2026-10-29T20:51:11.266Z] > grad-connect@1.0.0 dev /home/ubuntu/grad-connect
+[2026-10-29T20:51:11.266Z] > NODE_ENV=development tsx watch server/_core/index.ts
+[2026-10-29T20:51:14.496Z] [OAuth] Initialized with baseURL: https://api.manus.im
+[2026-10-29T20:51:14.907Z] Server running on http://localhost:3000/
+[2026-10-29T20:52:08.501Z] [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+[2026-10-29T22:03:52.385Z] ELIFECYCLE  Command failed.
+[2026-10-29T22:03:52.464Z] Dev server exited with code -1
+[2026-10-29T22:03:53.510Z] Starting dev server with command: pnpm run dev
+[2026-10-29T22:03:54.497Z] > grad-connect@1.0.0 dev /home/ubuntu/grad-connect
+[2026-10-29T22:03:54.498Z] > NODE_ENV=development tsx watch server/_core/index.ts
+[2026-10-29T22:03:56.950Z] [OAuth] Initialized with baseURL: https://api.manus.im
+[2026-10-29T22:03:57.272Z] Server running on http://localhost:3000/
+[2026-10-29T22:04:07.672Z] [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+[2026-10-29T22:05:16.609Z] Thu, 29 Oct 2026 22:05:16 GMT express deprecated res.clearCookie: Passing "options.maxAge" is deprecated. In v5.0.0 of Express, this option will be ignored, as res.clearCookie will automatically set cookies to expire immediately. Please update your code to omit this option. at file:/home/ubuntu/grad-connect/server/routers.ts:1:491
+[2026-10-29T22:05:17.085Z] [Auth] Missing session cookie
+[2026-10-30T18:35:05.290Z] 6:35:05 PM [tsx] change in ./server/_core/cookies.ts Restarting...
+[2026-10-30T18:35:10.809Z] c[OAuth] Initialized with baseURL: https://api.manus.im
+[2026-10-30T18:35:11.306Z] Server running on http://localhost:3000/
+[2026-10-30T18:35:15.937Z] 6:35:15 PM [tsx] change in ./server/_core/index.ts Restarting...
+[2026-10-30T18:35:18.191Z] c[OAuth] Initialized with baseURL: https://api.manus.im
+[2026-10-30T18:35:18.442Z] Server running on http://localhost:3000/
+[2026-10-30T18:36:03.947Z] [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+[2026-10-30T18:36:47.793Z] [Auth] Missing session cookie
+[2026-10-30T18:36:48.195Z] [Auth] Missing session cookie
+[2026-10-30T18:36:59.382Z] [Auth] Missing session cookie
+[2026-10-30T18:37:00.055Z] [Auth] Missing session cookie
+[2026-10-30T19:07:07.973Z] 7:07:07 PM [tsx] change in ./server/_core/cookies.ts Restarting...
+[2026-10-30T19:07:10.309Z] c[OAuth] Initialized with baseURL: https://api.manus.im
+[2026-10-30T19:07:10.612Z] Server running on http://localhost:3000/
+[2026-10-30T19:07:16.410Z] [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+[2026-10-30T19:07:43.550Z] [Auth] Missing session cookie
+[2026-10-30T19:07:43.768Z] [Auth] Missing session cookie
+[2026-10-30T19:07:46.406Z] [Auth] Missing session cookie
+[2026-10-30T19:07:50.328Z] [Auth] Missing session cookie
+[2026-10-30T19:08:49.758Z] [Auth] Missing session cookie
+[2026-10-30T19:08:50.275Z] [Auth] Missing session cookie
+[2026-10-30T19:13:52.819Z] 7:13:52 PM [tsx] change in ./server/_core/googleOAuth.ts Restarting...
+[2026-10-30T19:13:55.317Z] c[OAuth] Initialized with baseURL: https://api.manus.im
+[2026-10-30T19:13:55.632Z] Server running on http://localhost:3000/
+[2026-10-30T19:13:59.347Z] [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+[2026-10-30T19:14:15.199Z] [Auth] Missing session cookie
+[2026-10-30T19:14:15.546Z] [Auth] Missing session cookie
+[2026-10-30T19:14:30.656Z] 7:14:30 PM [vite] (client) hmr update /src/index.css
+[2026-10-30T19:14:33.829Z] 7:14:33 PM [vite] (client) page reload index.html
+[2026-10-30T19:14:48.050Z] [Auth] Missing session cookie
+[2026-10-30T19:14:48.367Z] [Auth] Missing session cookie
+[2026-10-30T19:15:03.004Z] [Auth] Missing session cookie
+[2026-10-30T19:15:03.490Z] [Auth] Missing session cookie
+[2026-10-30T19:15:22.687Z] [Auth] Missing session cookie
+[2026-10-30T19:15:27.334Z] [Auth] Missing session cookie
+[2026-10-30T19:23:03.272Z] [Auth] Missing session cookie
+[2026-10-30T19:23:03.654Z] [Auth] Missing session cookie
+[2026-10-30T19:48:47.518Z] [Auth] Missing session cookie
+[2026-10-30T20:10:08.925Z] ELIFECYCLE  Command failed.
+[2026-10-30T20:10:08.940Z] Dev server exited with code -1
+[2026-10-30T20:10:10.018Z] Starting dev server with command: pnpm run dev
+[2026-10-30T20:10:11.008Z] > grad-connect@1.0.0 dev /home/ubuntu/grad-connect
+[2026-10-30T20:10:11.008Z] > NODE_ENV=development tsx watch server/_core/index.ts
+[2026-10-30T20:10:13.528Z] [OAuth] Initialized with baseURL: https://api.manus.im
+[2026-10-30T20:10:13.866Z] 8:10:13 PM [vite] (client) Re-optimizing dependencies because lockfile has changed
+[2026-10-30T20:10:13.892Z] Server running on http://localhost:3000/
+[2026-10-30T20:10:53.520Z] [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+[2026-10-30T20:18:31.441Z] Fri, 30 Oct 2026 20:18:31 GMT express deprecated res.clearCookie: Passing "options.maxAge" is deprecated. In v5.0.0 of Express, this option will be ignored, as res.clearCookie will automatically set cookies to expire immediately. Please update your code to omit this option. at file:/home/ubuntu/grad-connect/server/routers.ts:1:491
+[2026-10-30T20:18:31.722Z] [Auth] Missing session cookie
+[2026-10-30T20:21:24.850Z] [Auth] Missing session cookie
+[2026-10-30T20:21:27.452Z] [Auth] Missing session cookie
+[2026-10-30T20:21:27.457Z] [Auth] Missing session cookie
+[2026-10-30T20:21:30.106Z] [Auth] Missing session cookie
+[2026-10-30T20:21:30.108Z] [Auth] Missing session cookie
+[2026-10-30T20:21:34.552Z] [Auth] Missing session cookie
+[2026-10-30T20:21:34.559Z] [Auth] Missing session cookie
+[2026-10-30T22:14:33.136Z] [Auth] Missing session cookie
+[2026-10-30T22:14:33.422Z] [Auth] Missing session cookie
+[2026-10-30T23:02:25.876Z] [Auth] Missing session cookie
+[2026-10-30T23:02:26.136Z] [Auth] Missing session cookie
+[2026-10-30T23:02:55.165Z] [Auth] Missing session cookie
+[2026-10-30T23:02:55.597Z] [Auth] Missing session cookie
+[2026-10-30T23:02:58.115Z] [Auth] Missing session cookie
+[2026-10-30T23:02:58.394Z] [Auth] Missing session cookie

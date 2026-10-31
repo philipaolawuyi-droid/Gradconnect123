@@ -1,0 +1,76 @@
+{
+  "name": "GradConnect - Alumni Network",
+  "short_name": "GradConnect",
+  "description": "Connect with your alumni community, share memories, and celebrate your graduation.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#000000",
+  "theme_color": "#d4af37",
+  "icons": [
+    {
+      "src": "/manus-storage/icon-192_6674a740.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/manus-storage/icon-512_1373c8b5.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/manus-storage/icon-maskable-192_ec7b06d0.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/manus-storage/icon-maskable-512_4ca6819e.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "categories": ["social", "lifestyle"],
+  "shortcuts": [
+    {
+      "name": "View Feed",
+      "short_name": "Feed",
+      "description": "View your alumni feed",
+      "url": "/feed",
+      "icons": [
+        {
+          "src": "/manus-storage/icon-96_1e2ecf4b.png",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "Browse Events",
+      "short_name": "Events",
+      "description": "Browse upcoming alumni events",
+      "url": "/events",
+      "icons": [
+        {
+          "src": "/manus-storage/icon-96_1e2ecf4b.png",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "Alumni Directory",
+      "short_name": "Directory",
+      "description": "Search the alumni directory",
+      "url": "/directory",
+      "icons": [
+        {
+          "src": "/manus-storage/icon-96_1e2ecf4b.png",
+          "sizes": "96x96"
+        }
+      ]
+    }
+  ]
+}

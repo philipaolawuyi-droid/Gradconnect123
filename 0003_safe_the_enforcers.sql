@@ -1,0 +1,2 @@
+ALTER TABLE `notifications` MODIFY COLUMN `type` enum('like','comment','connection_request','connection_accepted','event_created','event_rsvp') NOT NULL;--> statement-breakpoint
+ALTER TABLE `notifications` ADD `eventId` int;
